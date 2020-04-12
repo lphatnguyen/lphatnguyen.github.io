@@ -53,7 +53,8 @@
       <div id="content">
         <!-- insert the page content here -->
         <h1>About myself</h1>
-        <p>I am currently a PhD candidate in Computer Vision at the Laboratory of Computer Science of the University of Tours. 
+        <p>I am currently a PhD candidate in Computer Vision at the Laboratory of Computer Science of the University of Tours under the supervision of 
+          <a href="https://julien-mille.github.io/">Julien MILLE</a>, Nicolas RAGOT, Donatello CONTE and Dominique LI.
           My PhD subject is mainly about video analysis. In my research, I am interested in analyzing dynamic textures data. 
           Prior to that, I was an engineer student at INSA Centre Val de Loire.
           During my universtity years (2015-2018), I have done my internships at the Laboratory of Signal and Image Processing (Rennes) and in the company of RF-Track. 
