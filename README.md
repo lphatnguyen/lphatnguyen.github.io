@@ -24,6 +24,7 @@
           <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
           <li class="selected"><a href="https://lphatnguyen.github.io/index.html">Home</a></li>
           <li><a href="https://lphatnguyen.github.io/arvd.html">ARVD</a></li>
+          <li><a href="https://lphatnguyen.github.io/reserach.html">Research</a></li>
         </ul>
       </div>
     </div>
