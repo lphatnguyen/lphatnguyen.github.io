@@ -177,7 +177,7 @@ ul#menu li a
 
 ul#menu li.selected a
 { height: 25px;
-  color: #111;
+  color: rgb(0, 0, 0);
   padding: 7px 22px 5px 16px;}
 
 ul#menu li.selected
@@ -185,7 +185,7 @@ ul#menu li.selected
   background: rgb(219, 220, 240);}
 
 ul#menu li a:hover
-{ color: #888;}
+{ color: rgb(0, 0, 0);}
 
 #site_content
 { width: 890px;
