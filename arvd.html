@@ -58,17 +58,23 @@
       </div>
       <div id="content">
         <!-- insert the page content here -->
+        <h1>Automobile Rotation Velocity Dataset</h1>
         <figure>
           <img src="./style/output.gif" height="480" width="624"> </img>
           <figcaption>Fig. Raw sample of a clip in the ARVD</figcaption>
         </figure>
-        <h1>Automobile Rotation Velocity Dataset</h1>
+        
         <p>This dataset is called "Automobile engine rotation velocity". 
           This dataset contains 9 motor speed classes and each class contains 2 videos of 30 fps which last about 10 to 15 minutes. 
-          Each video is downsampled in time by a factor of 3, and is divided into sequences of 30 consecutive frames without overlapping. 
+          Each video is downsampled in time by a factor of 3, and is divided into sequences of 30 consecutive cropped frames without overlapping. 
           This gives a dataset with around 6000 sequences of 30 consecutive frames. The dataset is split as follows: the first 60 % of each video sequence are for training, 
-          the next 20% are for validation and the remaining (20% of the video) are for testing.</p>
-        <figure>
+          the next 20% are for validation and the remaining (20% of the video) are for testing. The following figure demonstrates a sample of the dataset: </p>
+          <figure>
+            <img src="./style/output_particle.gif" height="256" width="624"> </img>
+            <figcaption>Fig. Data sample at 200rpm</figcaption>
+          </figure>
+
+          <figure>
           <img src="./style/split_data.png" height="512" width="624"> </img>
           <figcaption>Fig. Dataset structure</figcaption>
         </figure>
