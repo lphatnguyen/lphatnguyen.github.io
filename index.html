@@ -42,7 +42,7 @@
         <h5>March 31st, 2020</h5>
         
         <h3>Useful Links</h3>
-        <li><a href="machinelearningcoban.com">Fundamental Machine Learning (in Vietnamese)</a></li>
+        <li><a href="https://machinelearningcoban.com">Fundamental Machine Learning (in Vietnamese)</a></li>
         <li><a href="http://web.stanford.edu/class/cs231a/">CS231a: Computer Vision course at Stanford</a></li>
         <li><a href="http://cs231n.stanford.edu/">CS231n: Convolutional Neural Networks for Visual Recognition course at Stanford</a></li>
         <h3>Search</h3>
