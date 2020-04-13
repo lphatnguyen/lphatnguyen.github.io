@@ -61,7 +61,7 @@
           My PhD subject is mainly about video analysis. In my research, I am interested in analyzing dynamic textures data. 
           Prior to that, I was an engineer student at INSA Centre Val de Loire.
           During my universtity years (2015-2018), I have done my internships at the Laboratory of Signal and Image Processing (Rennes) and in the company of RF-Track. 
-          The domain that I have done during these two internships is mainly Computer Vision, Signal Processing and Machine Learning. </p>
+          The domains that I have done during these two internships are mainly Embedded Software, Signal Processing and Machine Learning. </p>
         <h2>Experiences</h2>
         <h3>Signal Processing and Machine  Learning Internship (Mars - August 2018)</h3>
         <p>From Mars to August 2018, I have passed my internship in RF-Track under the supervision of M. Michel Le Mer. 
