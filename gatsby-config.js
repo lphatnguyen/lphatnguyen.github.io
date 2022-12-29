@@ -6,7 +6,7 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: "/",
+  pathPrefix: "/lphatnguyen.github.io",
   siteMetadata: {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
@@ -14,7 +14,6 @@ module.exports = {
     siteTitle: `Luong Phat Nguyen`,
     siteTitleAlt: `Luong Phat Nguyen`,
     siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
-    siteUrl: `lphatnguyen.github.io`,
     siteDescription: `Luong Phat Nguyen's personal website`,
     siteImage: `/banner.jpg`,
     author: `Luong Phat Nguyen`,
