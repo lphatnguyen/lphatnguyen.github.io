@@ -14,7 +14,6 @@ module.exports = {
     siteTitle: `Luong Phat Nguyen`,
     siteTitleAlt: `Luong Phat Nguyen`,
     siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
-    siteUrl: `lphatnguyen.github.io`,
     siteDescription: `Luong Phat Nguyen's personal website`,
     siteImage: `/banner.jpg`,
     author: `Luong Phat Nguyen`,
