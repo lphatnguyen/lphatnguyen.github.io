@@ -38,6 +38,10 @@ module.exports = {
           {
             name: `LinkedIn`,
             url: `https://www.linkedin.com/in/nguyen-luong-phat-025738105/`,
+          },
+          {
+            name: `Curriculum Vitae`,
+            url: `https://lphatnguyen.github.io/CV_LuongPhatNguyen_ENG.pdf`,
           }
         ],
       },
