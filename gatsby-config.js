@@ -41,7 +41,7 @@ module.exports = {
           },
           {
             name: `Curriculum Vitae`,
-            url: `https://lphatnguyen.github.io/CV_LuongPhatNguyen_EN_rizlum.pdf`,
+            url: `https://lphatnguyen.github.io/cv_lphatnguyen_v2_en.pdf`,
           }
         ],
       },
