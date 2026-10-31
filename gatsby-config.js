@@ -13,9 +13,9 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitle: `Luong Phat Nguyen`,
     siteTitleAlt: `Luong Phat Nguyen`,
-    siteHeadline: `Senior AI R&D Engineer — Multimodal LLMs & Voice AI`,
+    siteHeadline: `AI Research Scientist — Multimodal LLMs & Voice AI`,
     siteUrl: `https://lphatnguyen.github.io`,
-    siteDescription: `Luong Phat Nguyen — PhD in Computer Vision and Senior AI R&D Engineer at Rizlum AI, working on multimodal LLMs and real-time voice AI.`,
+    siteDescription: `Luong Phat Nguyen — PhD in Computer Vision and AI Research Scientist at Rizlum AI, working on multimodal LLMs and real-time voice AI.`,
     siteImage: `/banner.jpg`,
     author: `Luong Phat Nguyen`,
   },
