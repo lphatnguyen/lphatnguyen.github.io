@@ -13,8 +13,9 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitle: `Luong Phat Nguyen`,
     siteTitleAlt: `Luong Phat Nguyen`,
-    siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
-    siteDescription: `Luong Phat Nguyen's personal website`,
+    siteHeadline: `AI Research Scientist — Multimodal LLMs & Voice AI`,
+    siteUrl: `https://lphatnguyen.github.io`,
+    siteDescription: `Luong Phat Nguyen — PhD in Computer Vision and AI Research Scientist at Rizlum AI, working on multimodal LLMs and real-time voice AI.`,
     siteImage: `/banner.jpg`,
     author: `Luong Phat Nguyen`,
   },
@@ -33,16 +34,28 @@ module.exports = {
             title: `Publications`,
             slug: `/publications`,
           },
+          {
+            title: `About`,
+            slug: `/about`,
+          },
         ],
         externalLinks: [
+          {
+            name: `GitHub`,
+            url: `https://github.com/lphatnguyen`,
+          },
           {
             name: `LinkedIn`,
             url: `https://www.linkedin.com/in/nguyen-luong-phat-025738105/`,
           },
           {
-            name: `Curriculum Vitae`,
-            url: `https://lphatnguyen.github.io/cv_lphatnguyen_v2_en.pdf`,
-          }
+            name: `Email`,
+            url: `mailto:luongphatnguyen@gmail.com`,
+          },
+          {
+            name: `CV`,
+            url: `/cv_lphatnguyen.pdf`,
+          },
         ],
       },
     },
@@ -55,9 +68,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `Luong Phat Nguyen`,
+        short_name: `L. P. Nguyen`,
+        description: `Personal website of Luong Phat Nguyen — multimodal LLMs, voice AI and computer vision.`,
         start_url: `/`,
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
@@ -120,7 +133,7 @@ module.exports = {
   }
 }`,
             output: `rss.xml`,
-            title: `Minimal Blog - @lekoarts/gatsby-theme-minimal-blog`,
+            title: `Luong Phat Nguyen — Updates`,
           },
         ],
       },
