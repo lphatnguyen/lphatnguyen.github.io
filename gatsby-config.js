@@ -46,7 +46,7 @@ module.exports = {
           },
           {
             name: `LinkedIn`,
-            url: `https://www.linkedin.com/in/nguyen-luong-phat`,
+            url: `https://www.linkedin.com/in/nguyen-luong-phat-025738105/`,
           },
           {
             name: `Email`,
