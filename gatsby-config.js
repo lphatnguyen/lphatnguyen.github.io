@@ -54,7 +54,7 @@ module.exports = {
           },
           {
             name: `CV`,
-            url: `/cv_lphatnguyen_v2_en.pdf`,
+            url: `/cv_lphatnguyen.pdf`,
           },
         ],
       },
